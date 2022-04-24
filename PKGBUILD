@@ -17,7 +17,7 @@
 _npmname=nopt
 pkgname=nodejs-$_npmname
 pkgver=5.0.0
-pkgrel=2
+pkgrel=3
 pkgdesc="Node.js/npm option parsing library"
 arch=('any')
 url="https://github.com/npm/nopt"

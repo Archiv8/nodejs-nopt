@@ -1,7 +1,7 @@
 pkgbase = nodejs-nopt
 	pkgdesc = Node.js/npm option parsing library
 	pkgver = 5.0.0
-	pkgrel = 2
+	pkgrel = 3
 	url = https://github.com/npm/nopt
 	arch = any
 	license = custom:ISC
